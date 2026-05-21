@@ -74,3 +74,5 @@ html_static_path = ['_static']
 
 autodoc_mock_imports = ["pymc3","pystan"]
 
+nbsphinx_execute = "always"
+
