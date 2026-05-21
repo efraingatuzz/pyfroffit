@@ -12,3 +12,4 @@ emcee
 docutils<0.18
 aesara
 corner
+ipykernel
