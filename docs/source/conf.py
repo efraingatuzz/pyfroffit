@@ -18,11 +18,11 @@ sys.path.insert(0, os.path.abspath('../../'))
 # -- Project information -----------------------------------------------------
 
 project = 'pyproffit'
-copyright = '2020, D. Eckert'
-author = 'D. Eckert'
+copyright = '2026, E. Gatuzz'
+author = 'E. Gatuzz'
 
 # The full version, including alpha/beta/rc tags
-release = '0.5'
+release = '0.1'
 
 master_doc = 'index'
 
